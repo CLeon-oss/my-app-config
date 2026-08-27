@@ -9,6 +9,14 @@
 		<settimes>9</settimes>
 		<setsleep>1000</setsleep>
  </pc> 
+<pc id="11">
+		<ipadd>192.168.7.137</ipadd> 
+		<meth>7</meth>
+		<url>https://www.tcw-logistics.com/yapp/warm.txt</url>
+		<setdates>2026-03-24</setdates>
+		<settimes>9</settimes>
+		<setsleep>1000</setsleep>
+ </pc> 	
  <pc id="12">
 		<ipadd>192.168.0.65</ipadd> 
 		<meth>6</meth>
