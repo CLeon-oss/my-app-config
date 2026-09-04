@@ -82,7 +82,7 @@
 		<setsleep>1000</setsleep>
 	</pc> 
 	<pc id="18">
-		<ipadd>192.168.0.67</ipadd> 
+		<ipadd>192.168.1.67</ipadd> 
 		<meth>7</meth>
 		<url>https://www.tcw-logistics.com/yapp/warm.txt</url>
 		<setdates>2026-03-24</setdates>
@@ -90,7 +90,7 @@
 		<setsleep>1000</setsleep>
 	</pc> 	
 	<pc id="19">
-		<ipadd>192.168.0.66</ipadd> 
+		<ipadd>192.168.1.66</ipadd> 
 		<meth>7</meth>
 		<url>https://www.tcw-logistics.com/yapp/warm.txt</url>
 		<setdates>2026-03-24</setdates>
